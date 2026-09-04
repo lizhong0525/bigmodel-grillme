@@ -26,7 +26,7 @@ Agent 会自动加载本技能，按 SKILL.md 中定义的工作流完成解析�
 ## 项目结构
 
 ```
-llm-architecture-analyzer/
+bigmodel-grillme/
 ├── SKILL.md                    # 技能主文件（Agent 实际加载的就是这个）
 ├── README.md                   # 本文件，GitHub 访客入口
 ├── LICENSE                     # MIT 许可证
